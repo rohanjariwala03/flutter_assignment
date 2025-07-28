@@ -151,3 +151,11 @@ rm -rf node_modules package-lock.json
 npm install
 npm start
 ```
+
+### Demo Video
+
+https://user-images.githubusercontent.com/rohanjariwala03/assignment_demo.mp4
+
+Or download and play locally:
+
+[Download assignment_demo.mp4](assignment_demo.mp4)
