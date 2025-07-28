@@ -22,7 +22,7 @@ A cross-platform Flutter application featuring messaging capabilities and an emb
   - Send and receive messages (simulated agent replies)
   - Messages saved locally using SharedPreferences
   - Unread message badge in navigation
-  - Clear all messages with confirmation dialog
+  - Clear all messages with confirmation dialog.
 
 - **Dashboard Integration**
   - WebView integration for displaying the internal dashboard
